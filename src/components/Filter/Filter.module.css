@@ -1,0 +1,10 @@
+.boks {
+  display: flex;
+  justify-content: center;
+}
+
+.text {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+}

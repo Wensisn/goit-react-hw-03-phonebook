@@ -1,0 +1,25 @@
+.todoList {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+.todoList__item {
+  width: 200px;
+  border: 1px solid burlywood;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: bisque;
+  border-radius: 10%;
+  gap: 20px;
+}
+
+.todoList__text {
+  display: flex;
+  margin: 0;
+}
+
+.todoList__button {
+  background-color: bisque;
+  border: 1px solid burlywood;
+}
